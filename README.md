@@ -1,0 +1,2 @@
+# Django
+Notes sharing app
